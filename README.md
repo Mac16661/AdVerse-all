@@ -4,7 +4,7 @@
 <h2>https://github.com/Mac16661/AdVerse.git</h2>
 
 <h1>AdVerse unity asset: <h3>Basic uinty asset to show personalized in-game Ads</h3> </h1>
-<h2>https://github.com/Mac16661/AdVerse-Unity.git</h2>
+<h2>https://github.com/Mac16661/AdVerseUnity-SDK.git</h2>
 
 <h1>AdVerse Three stage recommender system: <h3>Speech based three stage recommender system based on LlamaRec research paper</h3></h1>
 <h2>https://github.com/Mac16661/AdVerseContentRanking.git</h2>
